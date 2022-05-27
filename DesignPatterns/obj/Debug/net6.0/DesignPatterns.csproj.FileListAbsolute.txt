@@ -1,0 +1,15 @@
+/home/hiren/RiderProjects/DesignPatterns/DesignPatterns/bin/Debug/net6.0/DesignPatterns
+/home/hiren/RiderProjects/DesignPatterns/DesignPatterns/bin/Debug/net6.0/DesignPatterns.deps.json
+/home/hiren/RiderProjects/DesignPatterns/DesignPatterns/bin/Debug/net6.0/DesignPatterns.runtimeconfig.json
+/home/hiren/RiderProjects/DesignPatterns/DesignPatterns/bin/Debug/net6.0/DesignPatterns.dll
+/home/hiren/RiderProjects/DesignPatterns/DesignPatterns/bin/Debug/net6.0/DesignPatterns.pdb
+/home/hiren/RiderProjects/DesignPatterns/DesignPatterns/obj/Debug/net6.0/DesignPatterns.csproj.AssemblyReference.cache
+/home/hiren/RiderProjects/DesignPatterns/DesignPatterns/obj/Debug/net6.0/DesignPatterns.GeneratedMSBuildEditorConfig.editorconfig
+/home/hiren/RiderProjects/DesignPatterns/DesignPatterns/obj/Debug/net6.0/DesignPatterns.AssemblyInfoInputs.cache
+/home/hiren/RiderProjects/DesignPatterns/DesignPatterns/obj/Debug/net6.0/DesignPatterns.AssemblyInfo.cs
+/home/hiren/RiderProjects/DesignPatterns/DesignPatterns/obj/Debug/net6.0/DesignPatterns.csproj.CoreCompileInputs.cache
+/home/hiren/RiderProjects/DesignPatterns/DesignPatterns/obj/Debug/net6.0/DesignPatterns.dll
+/home/hiren/RiderProjects/DesignPatterns/DesignPatterns/obj/Debug/net6.0/refint/DesignPatterns.dll
+/home/hiren/RiderProjects/DesignPatterns/DesignPatterns/obj/Debug/net6.0/DesignPatterns.pdb
+/home/hiren/RiderProjects/DesignPatterns/DesignPatterns/obj/Debug/net6.0/DesignPatterns.genruntimeconfig.cache
+/home/hiren/RiderProjects/DesignPatterns/DesignPatterns/obj/Debug/net6.0/ref/DesignPatterns.dll
